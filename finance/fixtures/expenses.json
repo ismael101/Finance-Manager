@@ -1,0 +1,444 @@
+[
+    {
+      "model": "finance.expenses",
+      "pk": 1,
+      "fields": {
+        "name": "groceries",
+        "amount": "400.00",
+        "month": "01",
+        "date": "2019-01-01"
+      }
+    },
+    {
+      "model": "finance.expenses",
+      "pk": 2,
+      "fields": {
+        "name": "rent",
+        "amount": "1000.00",
+        "month": "01",
+        "date": "2019-01-01"
+      }
+    },
+    {
+      "model": "finance.expenses",
+      "pk": 3,
+      "fields": {
+        "name": "electricity",
+        "amount": "125.00",
+        "month": "01",
+        "date": "2019-01-01"
+      }
+    },
+    {
+        "model": "finance.expenses",
+        "pk": 4,
+        "fields": {
+          "name": "other",
+          "amount": "525.00",
+          "month": "01",
+          "date": "2019-01-15"
+        }
+    },
+    {
+        "model": "finance.expenses",
+        "pk": 5,
+        "fields": {
+          "name": "groceries",
+          "amount": "400.00",
+          "month": "02",
+          "date": "2019-02-15"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 6,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "02",
+          "date": "2019-02-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 7,
+        "fields": {
+          "name": "electricity",
+          "amount": "130.00",
+          "month": "02",
+          "date": "2019-02-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 8,
+          "fields": {
+            "name": "other",
+            "amount": "630.00",
+            "month": "02",
+            "date": "2019-02-10"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 9,
+        "fields": {
+          "name": "groceries",
+          "amount": "370.00",
+          "month": "03",
+          "date": "2019-03-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 10,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "03",
+          "date": "2019-03-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 11,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "03",
+          "date": "2019-03-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 12,
+          "fields": {
+            "name": "other",
+            "amount": "679.00",
+            "month": "03",
+            "date": "2019-03-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 13,
+        "fields": {
+          "name": "groceries",
+          "amount": "250.00",
+          "month": "04",
+          "date": "2019-04-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 14,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "04",
+          "date": "2019-04-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 15,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "04",
+          "date": "2019-04-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 16,
+          "fields": {
+            "name": "other",
+            "amount": "325.00",
+            "month": "04",
+            "date": "2019-04-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 17,
+        "fields": {
+          "name": "groceries",
+          "amount": "160.00",
+          "month": "05",
+          "date": "2019-05-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 18,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "05",
+          "date": "2019-05-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 19,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "05",
+          "date": "2019-05-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 20,
+          "fields": {
+            "name": "other",
+            "amount": "169.00",
+            "month": "05",
+            "date": "2019-05-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 21,
+        "fields": {
+          "name": "groceries",
+          "amount": "560.00",
+          "month": "06",
+          "date": "2019-06-15"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 22,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "06",
+          "date": "2019-06-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 23,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "06",
+          "date": "2019-06-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 24,
+          "fields": {
+            "name": "other",
+            "amount": "477.00",
+            "month": "06",
+            "date": "2019-06-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 25,
+        "fields": {
+          "name": "groceries",
+          "amount": "140.00",
+          "month": "07",
+          "date": "2019-07-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 26,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "07",
+          "date": "2019-07-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 27,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "07",
+          "date": "2019-07-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 28,
+          "fields": {
+            "name": "other",
+            "amount": "500.00",
+            "month": "07",
+            "date": "2019-07-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 29,
+        "fields": {
+          "name": "groceries",
+          "amount": "350.00",
+          "month": "08",
+          "date": "2019-08-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 30,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "08",
+          "date": "2019-08-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 31,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "08",
+          "date": "2019-08-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 32,
+          "fields": {
+            "name": "other",
+            "amount": "425.00",
+            "month": "08",
+            "date": "2019-08-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 33,
+        "fields": {
+          "name": "groceries",
+          "amount": "160.00",
+          "month": "09",
+          "date": "2019-09-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 34,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "09",
+          "date": "2019-09-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 35,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "09",
+          "date": "2019-09-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 36,
+          "fields": {
+            "name": "other",
+            "amount": "105.00",
+            "month": "09",
+            "date": "2019-09-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 37,
+        "fields": {
+          "name": "groceries",
+          "amount": "100.00",
+          "month": "10",
+          "date": "2019-10-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 38,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "10",
+          "date": "2019-10-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 39,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "10",
+          "date": "2019-10-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 40,
+          "fields": {
+            "name": "other",
+            "amount": "1025.00",
+            "month": "10",
+            "date": "2019-10-15"
+          }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 41,
+        "fields": {
+          "name": "groceries",
+          "amount": "400.00",
+          "month": "11",
+          "date": "2019-11-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 42,
+        "fields": {
+          "name": "rent",
+          "amount": "1000.00",
+          "month": "11",
+          "date": "2019-11-01"
+        }
+      },
+      {
+        "model": "finance.expenses",
+        "pk": 43,
+        "fields": {
+          "name": "electricity",
+          "amount": "125.00",
+          "month": "11",
+          "date": "2019-11-01"
+        }
+      },
+      {
+          "model": "finance.expenses",
+          "pk": 44,
+          "fields": {
+            "name": "other",
+            "amount": "525.00",
+            "month": "11",
+            "date": "2019-11-15"
+          }
+      }
+
+]
+    
